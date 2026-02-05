@@ -8,7 +8,7 @@ A production-ready image segmentation project based on the CVPR 2024 paper **"Mu
 - **Conference**: CVPR 2024 (IEEE/CVF Conference on Computer Vision and Pattern Recognition)
 - **Authors**: Qian Yu, Xiaoqi Zhao, Youwei Pang, Lihe Zhang*, Huchuan Lu
 - **Affiliation**: Dalian University of Technology
-- **Paper Link**: [[CVPR 2024 Open Access]([[https://openaccess.thecvf.com/](https://github.com/qianyu-dlut/MVANet)](https://github.com/qianyu-dlut/MVANet](https://github.com/qianyu-dlut/MVANet)))
+- **GithubLink**: https://github.com/qianyu-dlut/MVANet
 
 ## Core Contributions
 
