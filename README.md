@@ -8,7 +8,7 @@ A production-ready image segmentation project based on the CVPR 2024 paper **"Mu
 - **Conference**: CVPR 2024 (IEEE/CVF Conference on Computer Vision and Pattern Recognition)
 - **Authors**: Qian Yu, Xiaoqi Zhao, Youwei Pang, Lihe Zhang*, Huchuan Lu
 - **Affiliation**: Dalian University of Technology
-- **Paper Link**: [CVPR 2024 Open Access](https://openaccess.thecvf.com/)
+- **Paper Link**: [[CVPR 2024 Open Access](https://openaccess.thecvf.com/](https://github.com/qianyu-dlut/MVANet))
 
 ## Core Contributions
 
@@ -28,6 +28,8 @@ A production-ready image segmentation project based on the CVPR 2024 paper **"Mu
 - **Frontend Interface**: Developed user-friendly web interface supporting image upload preview, real-time segmentation display, and result download
 - **Backend API**: Implemented multiple interfaces including `/predict` (file upload) and `/predict_json` (Base64 data) to meet different scenario requirements
 - **API Documentation**: Integrated Swagger UI, providing interactive API documentation and online debugging capabilities
+<img width="1912" height="892" alt="978f0a762411c13c8d909f3bc06c10f" src="https://github.com/user-attachments/assets/ce48b086-13c8-4d61-a815-74277f0f6212" />
+<img width="1920" height="892" alt="ce2f477698e4a4ae9ed2376c94da156" src="https://github.com/user-attachments/assets/2037705b-51b4-4e19-b0e9-3d34b4b2f8e6" />
 
 ### Bug Fixes & Optimization
 - Resolved tensor size mismatch issues in model inference by fixing input size to 512×512 to ensure model stability
